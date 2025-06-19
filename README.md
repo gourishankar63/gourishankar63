@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gouri Shankar Kishan</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-- 🌱 I’m currently learning **Deep Learning, Artificial Intelligence**
+- 🌱 I’m currently learning **Large Language Models**
 
 - 💬 Ask me about **anything**
 
