@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gouri Shankar Kishan</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-- 🌱 I’m currently learning **Large Language Models**
+- 🌱 I’m currently learning **Large Language Models.**
 
-- 💬 Ask me about **anything**
+- 💬 Ask me about **anything.**
 
 - 📫 How to reach me **gourishankarkishan53@gmail.com**
 
